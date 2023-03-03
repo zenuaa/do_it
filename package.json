@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "jshint": "^2.13.6"
-  }
+  },
+  "name": "just_do_it",
+  "version": "0.0.1",
+  "description": "study",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zenuaa/do_it.git"
+  },
+  "keywords": [
+    "just",
+    "do",
+    "it"
+  ],
+  "author": "zenua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenuaa/do_it/issues"
+  },
+  "homepage": "https://github.com/zenuaa/do_it#readme"
 }
