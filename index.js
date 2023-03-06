@@ -1,8 +1,6 @@
 "use strict";
 
 console.log('some Information');
-
-
 const express = require('express');
 const app = express();
 

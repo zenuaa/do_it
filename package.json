@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.18.2",
-    "jshint": "^2.13.6"
+    "express": "^4.18.2"
   },
   "name": "just_do_it",
   "version": "0.0.1",
@@ -24,5 +23,15 @@
   "bugs": {
     "url": "https://github.com/zenuaa/do_it/issues"
   },
-  "homepage": "https://github.com/zenuaa/do_it#readme"
+  "homepage": "https://github.com/zenuaa/do_it#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.5"
+  }
 }
