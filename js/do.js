@@ -5,6 +5,6 @@ let poo = true,
 
     console.log(poo && foo);
 
-let massage = 'helloS';
+let massage = 'hello';
     console.log('Create Pull Request'+ massage);
     
