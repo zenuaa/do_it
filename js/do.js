@@ -148,6 +148,6 @@ function ask() {
         b && c ? 10 < b.length ? (console.log("The name length cannot be largest 10 simbols"), i --) : personalMovieDB.movies[b] = + c : (console.log("Aswer the question!!!"), i --);
     }
 }
-ask();
+// ask();
 console.log(personalMovieDB);
 
